@@ -34,4 +34,4 @@
 ### Tips
 
 - [TipsLog](https://github.com/Ryoto-128/TipsLog)
-- [Automatic-deployment](
+- [Automatic-deployment](https://github.com/Ryoto-128/Automatic-deployment)
