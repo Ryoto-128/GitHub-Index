@@ -15,23 +15,23 @@
 
 ### Private Development
 
-- [Distance-measurement](https://github.com/Ryoto-128/Distance-measurement)
-
-- [Chrome-extension](https://github.com/Ryoto-128/Chrome-extension)
-- [Portfolio-site](https://github.com/Ryoto-128/Portfolio-site)
+- [Distance-measurement : WebApplication](https://github.com/Ryoto-128/Distance-measurement)
+- [Exporting_tabs_info : ChromeExtension](https://github.com/Ryoto-128/Exporting_tabs_info)
+- [Portfolio-site : WordPress](https://github.com/Ryoto-128/Portfolio-site)
 - [Python-modules](https://github.com/Ryoto-128/Python-modules)
-- [Serch-Google](https://github.com/Ryoto-128/Serch-Google)
-- [Information-gathering-system](https://github.com/Ryoto-128/Information-gathering-system)
-- [Scraping-from-Doda](https://github.com/Ryoto-128/Scraping-from-Doda)
-- [MapsUedriverInfo-scraping](https://github.com/Ryoto-128/MapsUedriverInfo-scraping)
+- [Serch-Google : scraping](https://github.com/Ryoto-128/Serch-Google)
+- [Information-gathering-system : scraping](https://github.com/Ryoto-128/Information-gathering-system)
+- [Scraping-from-Doda : scraping](https://github.com/Ryoto-128/Scraping-from-Doda)
+- [MapsUedriverInfo-scraping : scraping](https://github.com/Ryoto-128/MapsUedriverInfo-scraping)
 - [LexicalAnalyzer](https://github.com/Ryoto-128/LexicalAnalyzer)
-- [Office-system](https://github.com/Ryoto-128/Office-system)
-- [Internt-forum-application](https://github.com/Ryoto-128/Internt-forum-application)
-- [Training-Record-Servlet](https://github.com/Ryoto-128/Training-Record-Servlet)
-- [Circular-motion-Robocode](https://github.com/Ryoto-128/Circular-motion-Robocode)
-- [Room-search-Unity](https://github.com/Ryoto-128/Room-search-Unity)
+- [Office-system : KintoneExtension](https://github.com/Ryoto-128/Office-system)
+- [Internt-forum-application : SoftwareApplication](https://github.com/Ryoto-128/Internt-forum-application)
+- [Training-Record-Servlet : WebApplication](https://github.com/Ryoto-128/Training-Record-Servlet)
+- [Circular-motion-Robocode : Simulator](https://github.com/Ryoto-128/Circular-motion-Robocode)
+- [Room-search-Unity : Game](https://github.com/Ryoto-128/Room-search-Unity)
 
-### Tips
+### Tips or Sample
 
 - [TipsLog](https://github.com/Ryoto-128/TipsLog)
 - [Automatic-deployment](https://github.com/Ryoto-128/Automatic-deployment)
+- [Chrome-extension-Sample](https://github.com/Ryoto-128/Chrome-extension-Sample)
