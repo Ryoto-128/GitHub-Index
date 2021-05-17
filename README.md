@@ -13,6 +13,10 @@
 
 - [LINE-Notify-API-Sample](https://github.com/Ryoto-128/LINE-Notify-API-Sample)
 
+### Other Sample
+
+- [Chrome-extension-Sample](https://github.com/Ryoto-128/Chrome-extension-Sample)
+
 ### Private Development
 
 - [Distance-measurement : WebApplication](https://github.com/Ryoto-128/Distance-measurement)
@@ -34,4 +38,3 @@
 
 - [TipsLog](https://github.com/Ryoto-128/TipsLog)
 - [Automatic-deployment](https://github.com/Ryoto-128/Automatic-deployment)
-- [Chrome-extension-Sample](https://github.com/Ryoto-128/Chrome-extension-Sample)
