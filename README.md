@@ -9,9 +9,9 @@
 
 - [Wordpress-Template](https://github.com/Ryoto-128/Wordpress-Template)
 
-### API
+### API Sample
 
-- [LINE-Notify-API](https://github.com/Ryoto-128/LINE-Notify-API)
+- [LINE-Notify-API-Sample](https://github.com/Ryoto-128/LINE-Notify-API-Sample)
 
 ### Private Development
 
